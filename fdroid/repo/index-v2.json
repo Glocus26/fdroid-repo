@@ -23,15 +23,31 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1780239871000
+    "timestamp": 1780239950000,
+    "categories": {
+      "Development": {
+        "name": {
+          "en-US": "Development"
+        }
+      }
+    }
   },
   "packages": {
     "com.ddc.store": {
       "metadata": {
         "added": 1780238141000,
+        "categories": [
+          "Development"
+        ],
         "lastUpdated": 1780238143000,
         "name": {
           "en-US": "Ddc Store"
+        },
+        "summary": {
+          "fr": "App Store"
+        },
+        "description": {
+          "fr": "Le store officiel pour télécharger toutes nos applications internes."
         },
         "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
       },

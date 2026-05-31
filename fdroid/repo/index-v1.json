@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780239871000,
+    "timestamp": 1780239950000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -16,6 +16,9 @@
   },
   "apps": [
     {
+      "categories": [
+        "Development"
+      ],
       "suggestedVersionCode": "31",
       "license": "Unknown",
       "name": "Ddc Store",
@@ -24,11 +27,13 @@
       "lastUpdated": 1780238143000,
       "localized": {
         "fr": {
+          "description": "Le store officiel pour t\u00e9l\u00e9charger toutes nos applications internes.",
           "phoneScreenshots": [
             "Screenshot_20260531-170316_Ddc_Store.png",
             "Screenshot_20260531-170134_Ddc_Store.png",
             "Screenshot_20260531-170153_Ddc_Store.png"
-          ]
+          ],
+          "summary": "App Store"
         }
       }
     }
