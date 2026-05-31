@@ -1,14 +1,14 @@
 {
   "repo": {
-    "timestamp": 1780245222000
+    "timestamp": 1780245622000
   },
   "packages": {
     "com.ddc.store": {
       "metadata": {
         "icon": {
           "en-US": {
-            "sha256": "1d4dc92a7086316713a3dc206f8d590e9124d4242b30b2251a46a32892a611a3",
-            "size": 205268
+            "sha256": "083504e07a7fcc1dd5b3c5d059a002b8d8e9308b6e32968a7e099d851987ddc5",
+            "size": 116602
           }
         }
       }
