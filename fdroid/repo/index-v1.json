@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780243284000,
+    "timestamp": 1780243670000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -23,6 +23,7 @@
       "license": "Unknown",
       "name": "Ddc Store",
       "added": 1780238141000,
+      "icon": "com.ddc.store.31.png",
       "packageName": "com.ddc.store",
       "lastUpdated": 1780238143000,
       "localized": {
