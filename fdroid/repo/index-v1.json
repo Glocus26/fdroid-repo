@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780244095000,
+    "timestamp": 1780244286000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -29,6 +29,7 @@
       "localized": {
         "fr": {
           "description": "Le store officiel pour t\u00e9l\u00e9charger toutes nos applications internes.",
+          "icon": "icon_hr.png",
           "phoneScreenshots": [
             "Screenshot_20260531-170316_Ddc_Store.png",
             "Screenshot_20260531-170134_Ddc_Store.png",
