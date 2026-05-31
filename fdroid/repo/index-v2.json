@@ -1,0 +1,95 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Ddc Apps"
+    },
+    "description": {
+      "en-US": "Dépôt pour télécharger toutes les applications Android officiels Ddc."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "4b5a590d69413547009dd4b1581f2f37763d853dae928176c66022faafd3ed50",
+        "size": 947
+      }
+    },
+    "address": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo",
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
+      }
+    ],
+    "timestamp": 1780238609000
+  },
+  "packages": {
+    "com.ddc.store": {
+      "metadata": {
+        "added": 1780238141000,
+        "lastUpdated": 1780238143000,
+        "name": {
+          "en-US": "Ddc Store"
+        },
+        "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+      },
+      "versions": {
+        "593a6a17a7e7f4ca46d43bb102987a86719e7fbbb3f667816dad3b737b1e7693": {
+          "added": 1780238143000,
+          "file": {
+            "name": "/Ddc_store_stable.apk",
+            "sha256": "593a6a17a7e7f4ca46d43bb102987a86719e7fbbb3f667816dad3b737b1e7693",
+            "size": 10378723
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "8.2",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.google.android.providers.gsf.permission.READ_GSERVICES"
+              },
+              {
+                "name": "com.ddc.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

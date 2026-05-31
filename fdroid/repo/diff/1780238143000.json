@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "icon": {
+      "en-US": {
+        "sha256": "4b5a590d69413547009dd4b1581f2f37763d853dae928176c66022faafd3ed50",
+        "size": 947
+      }
+    },
+    "address": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo",
+    "mirrors": [
+      {
+        "isPrimary": true,
+        "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo"
+      },
+      {
+        "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
+      }
+    ],
+    "timestamp": 1780238609000
+  }
+}

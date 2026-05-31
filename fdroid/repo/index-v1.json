@@ -1,0 +1,85 @@
+{
+  "repo": {
+    "timestamp": 1780238609000,
+    "version": 20002,
+    "name": "Ddc Apps",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo",
+    "description": "D\u00e9p\u00f4t pour t\u00e9l\u00e9charger toutes les applications Android officiels Ddc.",
+    "mirrors": [
+      "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "31",
+      "license": "Unknown",
+      "name": "Ddc Store",
+      "added": 1780238141000,
+      "packageName": "com.ddc.store",
+      "lastUpdated": 1780238143000
+    }
+  ],
+  "packages": {
+    "com.ddc.store": [
+      {
+        "added": 1780238143000,
+        "apkName": "Ddc_store_stable.apk",
+        "hash": "593a6a17a7e7f4ca46d43bb102987a86719e7fbbb3f667816dad3b737b1e7693",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.ddc.store",
+        "sig": "264743284c9f775953673eebe4bae8e7",
+        "signer": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9",
+        "size": 10378723,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.ddc.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 31,
+        "versionName": "8.2"
+      }
+    ]
+  }
+}
