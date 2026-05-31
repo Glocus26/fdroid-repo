@@ -6,16 +6,72 @@
         "size": 314319
       }
     },
-    "timestamp": 1780246978000
+    "timestamp": 1780247387000
   },
   "packages": {
     "com.ddc.store": {
       "metadata": {
+        "lastUpdated": 1780247386000,
         "authorName": "Ddc Apps",
         "icon": {
           "en-US": {
             "sha256": "083504e07a7fcc1dd5b3c5d059a002b8d8e9308b6e32968a7e099d851987ddc5",
             "size": 116602
+          }
+        }
+      },
+      "versions": {
+        "8fedbe1e98c3f1f7971aea8dee1bc5d93969c20490ad68009380bc4dde60e87a": {
+          "added": 1780247386000,
+          "file": {
+            "name": "/Ddc_store_stable_27.apk",
+            "sha256": "8fedbe1e98c3f1f7971aea8dee1bc5d93969c20490ad68009380bc4dde60e87a",
+            "size": 10379359
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "8.2.1",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.google.android.providers.gsf.permission.READ_GSERVICES"
+              },
+              {
+                "name": "com.ddc.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
           }
         }
       }
