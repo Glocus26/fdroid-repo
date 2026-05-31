@@ -7,12 +7,5 @@
       }
     },
     "timestamp": 1780246978000
-  },
-  "packages": {
-    "com.ddc.store": {
-      "metadata": {
-        "authorName": "Ddc Apps"
-      }
-    }
   }
 }

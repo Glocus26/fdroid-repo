@@ -9,8 +9,8 @@
     "icon": {
       "en-US": {
         "name": "/icons/icon.png",
-        "sha256": "4b5a590d69413547009dd4b1581f2f37763d853dae928176c66022faafd3ed50",
-        "size": 947
+        "sha256": "560af87b447b507cc5f3ec59c3dd12f8c75849e7b1e48273a17a1d5055bb4260",
+        "size": 314319
       }
     },
     "address": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo",
@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1780246072000,
+    "timestamp": 1780246978000,
     "categories": {
       "Development": {
         "name": {

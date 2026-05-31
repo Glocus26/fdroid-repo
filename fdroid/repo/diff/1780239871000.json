@@ -1,6 +1,12 @@
 {
   "repo": {
-    "timestamp": 1780246072000,
+    "icon": {
+      "en-US": {
+        "sha256": "560af87b447b507cc5f3ec59c3dd12f8c75849e7b1e48273a17a1d5055bb4260",
+        "size": 314319
+      }
+    },
+    "timestamp": 1780246978000,
     "categories": {
       "Development": {
         "name": {
