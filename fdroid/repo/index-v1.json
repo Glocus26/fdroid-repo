@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780239676000,
+    "timestamp": 1780239871000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -21,7 +21,16 @@
       "name": "Ddc Store",
       "added": 1780238141000,
       "packageName": "com.ddc.store",
-      "lastUpdated": 1780238143000
+      "lastUpdated": 1780238143000,
+      "localized": {
+        "fr": {
+          "phoneScreenshots": [
+            "Screenshot_20260531-170316_Ddc_Store.png",
+            "Screenshot_20260531-170134_Ddc_Store.png",
+            "Screenshot_20260531-170153_Ddc_Store.png"
+          ]
+        }
+      }
     }
   ],
   "packages": {
