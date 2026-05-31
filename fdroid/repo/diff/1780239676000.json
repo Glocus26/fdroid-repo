@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780245622000,
+    "timestamp": 1780246072000,
     "categories": {
       "Development": {
         "name": {
@@ -15,6 +15,7 @@
         "categories": [
           "Development"
         ],
+        "authorName": "Ddc Apps",
         "summary": {
           "fr": "App Store"
         },

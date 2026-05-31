@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1780245622000,
+    "timestamp": 1780246072000,
     "categories": {
       "Development": {
         "name": {
@@ -40,6 +40,7 @@
           "Development"
         ],
         "lastUpdated": 1780238143000,
+        "authorName": "Ddc Apps",
         "name": {
           "en-US": "Ddc Store"
         },

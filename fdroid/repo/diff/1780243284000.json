@@ -1,10 +1,11 @@
 {
   "repo": {
-    "timestamp": 1780245622000
+    "timestamp": 1780246072000
   },
   "packages": {
     "com.ddc.store": {
       "metadata": {
+        "authorName": "Ddc Apps",
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.store.31.png",

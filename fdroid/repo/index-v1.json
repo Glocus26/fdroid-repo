@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780245622000,
+    "timestamp": 1780246072000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -16,6 +16,7 @@
   },
   "apps": [
     {
+      "authorName": "Ddc Apps",
       "categories": [
         "Development"
       ],
