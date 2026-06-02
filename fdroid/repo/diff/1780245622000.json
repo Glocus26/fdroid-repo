@@ -6,13 +6,19 @@
         "size": 314319
       }
     },
-    "timestamp": 1780247400000
+    "timestamp": 1780421228000
   },
   "packages": {
     "com.ddc.store": {
       "metadata": {
-        "lastUpdated": 1780247386000,
-        "authorName": "Ddc Apps"
+        "lastUpdated": 1780421227000,
+        "authorName": "Ddc Apps",
+        "icon": {
+          "en-US": {
+            "sha256": "07cb1bbaa0c4af6ff6a5f87531a88f8615e8bbc494d51d7b1eeffa0ca105cc2c",
+            "size": 23719
+          }
+        }
       },
       "versions": {
         "8fedbe1e98c3f1f7971aea8dee1bc5d93969c20490ad68009380bc4dde60e87a": {
@@ -30,6 +36,59 @@
               "x86_64"
             ],
             "versionName": "8.2.1",
+            "versionCode": 31,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 35
+            },
+            "signer": {
+              "sha256": [
+                "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.google.android.providers.gsf.permission.READ_GSERVICES"
+              },
+              {
+                "name": "com.ddc.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "10774b3644af8fdd1bbea2d493064a75bfaf5b333601a2ffb296b12e0d47e3ce": {
+          "added": 1780421227000,
+          "file": {
+            "name": "/Ddc_store_stable_8TgAVwY.apk",
+            "sha256": "10774b3644af8fdd1bbea2d493064a75bfaf5b333601a2ffb296b12e0d47e3ce",
+            "size": 10248656
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "8.3",
             "versionCode": 31,
             "usesSdk": {
               "minSdkVersion": 24,

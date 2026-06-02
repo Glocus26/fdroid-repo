@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1780247400000,
+    "timestamp": 1780421228000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -26,7 +26,7 @@
       "added": 1780238141000,
       "icon": "com.ddc.store.31.png",
       "packageName": "com.ddc.store",
-      "lastUpdated": 1780247386000,
+      "lastUpdated": 1780421227000,
       "localized": {
         "fr": {
           "description": "Le store officiel pour t\u00e9l\u00e9charger toutes nos applications internes.",
@@ -150,6 +150,60 @@
         ],
         "versionCode": 31,
         "versionName": "8.2.1"
+      },
+      {
+        "added": 1780421227000,
+        "apkName": "Ddc_store_stable_8TgAVwY.apk",
+        "hash": "10774b3644af8fdd1bbea2d493064a75bfaf5b333601a2ffb296b12e0d47e3ce",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.ddc.store",
+        "sig": "264743284c9f775953673eebe4bae8e7",
+        "signer": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9",
+        "size": 10248656,
+        "targetSdkVersion": 35,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "com.ddc.store.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 31,
+        "versionName": "8.3"
       }
     ]
   }
