@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698316000,
+    "timestamp": 1781698374000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -58,7 +58,7 @@
             "Screenshot_20260531-170134_Ddc_Store.png",
             "Screenshot_20260531-170153_Ddc_Store.png"
           ],
-          "summary": "App Store"
+          "summary": "App Store alternatif au Play Store pour l'IA."
         }
       }
     }

@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698316000
+    "timestamp": 1781698374000
   },
   "packages": {
     "com.ddc.ai.chat": {
@@ -76,6 +76,9 @@
     "com.ddc.store": {
       "metadata": {
         "lastUpdated": 1781626471000,
+        "summary": {
+          "fr": "App Store alternatif au Play Store pour l'IA."
+        },
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.store.32.png"
