@@ -1,5 +1,18 @@
 {
   "repo": {
-    "timestamp": 1781698298000
+    "timestamp": 1781698316000
+  },
+  "packages": {
+    "com.ddc.ai.chat": {
+      "metadata": {
+        "authorName": "Ddc Apps",
+        "summary": {
+          "fr": "Chatbot d'IA boosté par DdcAI 5"
+        },
+        "description": {
+          "fr": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5 et 5.5\r\nDonnez lui toutes sorte de documents, de l'image au PDF et à la vidéo.\r\nGardez les réponses toujours d'actualités grâce à la recherche web et à l'url_context."
+        }
+      }
+    }
   }
 }

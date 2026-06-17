@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698298000,
+    "timestamp": 1781698316000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -16,6 +16,7 @@
   },
   "apps": [
     {
+      "authorName": "Ddc Apps",
       "suggestedVersionCode": "17",
       "license": "Unknown",
       "name": "Ddc Chat",
@@ -25,12 +26,14 @@
       "lastUpdated": 1781697886000,
       "localized": {
         "fr": {
+          "description": "D\u00e9couvrez Ddc Chat, un chatbot d'IA derni\u00e8re g\u00e9n\u00e9ration boost\u00e9 par DdcAI 5 et 5.5\r\nDonnez lui toutes sorte de documents, de l'image au PDF et \u00e0 la vid\u00e9o.\r\nGardez les r\u00e9ponses toujours d'actualit\u00e9s gr\u00e2ce \u00e0 la recherche web et \u00e0 l'url_context.",
           "phoneScreenshots": [
             "Screenshot_20260617-140826_Ddc_Chat2.jpg",
             "Screenshot_20260617-140809_Ddc_Chat2.jpg",
             "Screenshot_20260617-140815_Ddc_Chat2.jpg",
             "Screenshot_20260617-140819_Ddc_Chat2.jpg"
-          ]
+          ],
+          "summary": "Chatbot d'IA boost\u00e9 par DdcAI 5"
         }
       }
     },

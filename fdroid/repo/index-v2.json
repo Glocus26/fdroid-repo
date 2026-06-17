@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1781698298000,
+    "timestamp": 1781698316000,
     "categories": {
       "Development": {
         "name": {
@@ -37,8 +37,15 @@
       "metadata": {
         "added": 1781697879000,
         "lastUpdated": 1781697886000,
+        "authorName": "Ddc Apps",
         "name": {
           "en-US": "Ddc Chat"
+        },
+        "summary": {
+          "fr": "Chatbot d'IA boosté par DdcAI 5"
+        },
+        "description": {
+          "fr": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5 et 5.5\r\nDonnez lui toutes sorte de documents, de l'image au PDF et à la vidéo.\r\nGardez les réponses toujours d'actualités grâce à la recherche web et à l'url_context."
         },
         "icon": {
           "en-US": {
