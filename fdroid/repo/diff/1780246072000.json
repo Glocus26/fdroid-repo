@@ -6,9 +6,72 @@
         "size": 314319
       }
     },
-    "timestamp": 1781626672000
+    "timestamp": 1781697893000
   },
   "packages": {
+    "com.ddc.ai.chat": {
+      "metadata": {
+        "added": 1781697879000,
+        "lastUpdated": 1781697886000,
+        "name": {
+          "en-US": "Ddc Chat"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.ddc.ai.chat.17.png",
+            "sha256": "a1dcfabbc28b8f7bdc112fcc44e5275c02243a6e29e005ec9629cb70cf284242",
+            "size": 30253
+          }
+        },
+        "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+      },
+      "versions": {
+        "471e57cbbd442c5a807295afc69b5f09844e6898c20f537e2207e1518842addf": {
+          "added": 1781697886000,
+          "file": {
+            "name": "/Ddc_Chat_stable.apk",
+            "sha256": "471e57cbbd442c5a807295afc69b5f09844e6898c20f537e2207e1518842addf",
+            "size": 93296539
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "4.4",
+            "versionCode": 17,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.RECORD_AUDIO"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.ddc.ai.chat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
     "com.ddc.store": {
       "metadata": {
         "lastUpdated": 1781626471000,
