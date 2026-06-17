@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698709000,
+    "timestamp": 1781698724000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -63,6 +63,10 @@
       }
     },
     {
+      "authorName": "Ddc Apps",
+      "categories": [
+        "Games"
+      ],
       "suggestedVersionCode": "11",
       "license": "Unknown",
       "name": "Didi",
@@ -72,9 +76,11 @@
       "lastUpdated": 1781698512000,
       "localized": {
         "fr": {
+          "description": "Un bot pour jouer avec vous au Yathzee! m\u00eame hors connexion.\r\nInterface avec Material 3 Design et de la synth\u00e8se vocale.",
           "phoneScreenshots": [
             "Screenshot_20260617-141736_Didi.png"
-          ]
+          ],
+          "summary": "Bot pour jouer avec vous au Yathzee!"
         }
       }
     }

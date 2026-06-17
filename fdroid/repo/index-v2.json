@@ -23,11 +23,16 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1781698709000,
+    "timestamp": 1781698724000,
     "categories": {
       "Development": {
         "name": {
           "en-US": "Development"
+        }
+      },
+      "Games": {
+        "name": {
+          "en-US": "Games"
         }
       }
     }
@@ -106,9 +111,19 @@
     "com.ddc.didi": {
       "metadata": {
         "added": 1781698502000,
+        "categories": [
+          "Games"
+        ],
         "lastUpdated": 1781698512000,
+        "authorName": "Ddc Apps",
         "name": {
           "en-US": "Didi"
+        },
+        "summary": {
+          "fr": "Bot pour jouer avec vous au Yathzee!"
+        },
+        "description": {
+          "fr": "Un bot pour jouer avec vous au Yathzee! même hors connexion.\r\nInterface avec Material 3 Design et de la synthèse vocale."
         },
         "icon": {
           "en-US": {
