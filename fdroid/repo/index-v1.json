@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698513000,
+    "timestamp": 1781698709000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -69,7 +69,14 @@
       "added": 1781698502000,
       "icon": "com.ddc.didi.11.png",
       "packageName": "com.ddc.didi",
-      "lastUpdated": 1781698512000
+      "lastUpdated": 1781698512000,
+      "localized": {
+        "fr": {
+          "phoneScreenshots": [
+            "Screenshot_20260617-141736_Didi.png"
+          ]
+        }
+      }
     }
   ],
   "packages": {
