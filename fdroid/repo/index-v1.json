@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781697924000,
+    "timestamp": 1781698298000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -22,7 +22,17 @@
       "added": 1781697879000,
       "icon": "com.ddc.ai.chat.17.png",
       "packageName": "com.ddc.ai.chat",
-      "lastUpdated": 1781697886000
+      "lastUpdated": 1781697886000,
+      "localized": {
+        "fr": {
+          "phoneScreenshots": [
+            "Screenshot_20260617-140826_Ddc_Chat2.jpg",
+            "Screenshot_20260617-140809_Ddc_Chat2.jpg",
+            "Screenshot_20260617-140815_Ddc_Chat2.jpg",
+            "Screenshot_20260617-140819_Ddc_Chat2.jpg"
+          ]
+        }
+      }
     },
     {
       "authorName": "Ddc Apps",
