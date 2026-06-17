@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1781698374000,
+    "timestamp": 1781698513000,
     "categories": {
       "Development": {
         "name": {
@@ -97,6 +97,51 @@
               },
               {
                 "name": "com.ddc.ai.chat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.ddc.didi": {
+      "metadata": {
+        "added": 1781698502000,
+        "lastUpdated": 1781698512000,
+        "name": {
+          "en-US": "Didi"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.ddc.didi.11.png",
+            "sha256": "63d6dfb1b94c09f45e21ffec5c01c69ad823c79d12a71ed2fdd7f0c5d5546674",
+            "size": 80980
+          }
+        },
+        "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+      },
+      "versions": {
+        "56cf3510ea8f4fef0751a6eeda38add195decfe007609a018c2c409df85e08e9": {
+          "added": 1781698512000,
+          "file": {
+            "name": "/Didi_stable_5.apk",
+            "sha256": "56cf3510ea8f4fef0751a6eeda38add195decfe007609a018c2c409df85e08e9",
+            "size": 6698814
+          },
+          "manifest": {
+            "versionName": "1.6",
+            "versionCode": 11,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 36
+            },
+            "signer": {
+              "sha256": [
+                "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "com.ddc.didi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
               }
             ]
           }

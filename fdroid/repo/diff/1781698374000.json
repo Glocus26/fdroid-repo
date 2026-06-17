@@ -47,13 +47,6 @@
           }
         }
       }
-    },
-    "com.ddc.store": {
-      "metadata": {
-        "summary": {
-          "fr": "App Store alternatif au Play Store pour l'IA."
-        }
-      }
     }
   }
 }

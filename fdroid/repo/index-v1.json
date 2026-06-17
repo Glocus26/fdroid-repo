@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698374000,
+    "timestamp": 1781698513000,
     "version": 20002,
     "name": "Ddc Apps",
     "icon": "icon.png",
@@ -61,6 +61,15 @@
           "summary": "App Store alternatif au Play Store pour l'IA."
         }
       }
+    },
+    {
+      "suggestedVersionCode": "11",
+      "license": "Unknown",
+      "name": "Didi",
+      "added": 1781698502000,
+      "icon": "com.ddc.didi.11.png",
+      "packageName": "com.ddc.didi",
+      "lastUpdated": 1781698512000
     }
   ],
   "packages": {
@@ -107,6 +116,28 @@
         ],
         "versionCode": 17,
         "versionName": "4.4"
+      }
+    ],
+    "com.ddc.didi": [
+      {
+        "added": 1781698512000,
+        "apkName": "Didi_stable_5.apk",
+        "hash": "56cf3510ea8f4fef0751a6eeda38add195decfe007609a018c2c409df85e08e9",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "packageName": "com.ddc.didi",
+        "sig": "264743284c9f775953673eebe4bae8e7",
+        "signer": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9",
+        "size": 6698814,
+        "targetSdkVersion": 36,
+        "uses-permission": [
+          [
+            "com.ddc.didi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 11,
+        "versionName": "1.6"
       }
     ],
     "com.ddc.store": [
