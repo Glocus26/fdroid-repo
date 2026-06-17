@@ -1,13 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781699644000,
-    "categories": {
-      "Games": {
-        "name": {
-          "en-US": "Games"
-        }
-      }
-    }
+    "timestamp": 1781699644000
   },
   "packages": {
     "com.ddc.ai.chat": {
@@ -22,16 +15,6 @@
     },
     "com.ddc.didi": {
       "metadata": {
-        "categories": [
-          "Games"
-        ],
-        "authorName": "Ddc Apps",
-        "summary": {
-          "fr": "Bot pour jouer avec vous au Yathzee!"
-        },
-        "description": {
-          "fr": "Un bot pour jouer avec vous au Yathzee! même hors connexion.\r\nInterface avec Material 3 Design et de la synthèse vocale."
-        },
         "icon": {
           "en-US": {
             "sha256": "4e0dc56d75868fea1bcdafad85d3a0d308a78cbc05d8d202764b81b3ee625624",

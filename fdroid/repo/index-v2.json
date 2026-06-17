@@ -23,7 +23,7 @@
         "url": "https://raw.githubusercontent.com/Glocus26/fdroid-repo/master/fdroid/repo/repo"
       }
     ],
-    "timestamp": 1781698724000,
+    "timestamp": 1781699644000,
     "categories": {
       "Development": {
         "name": {
@@ -55,8 +55,8 @@
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.ai.chat.17.png",
-            "sha256": "a1dcfabbc28b8f7bdc112fcc44e5275c02243a6e29e005ec9629cb70cf284242",
-            "size": 30253
+            "sha256": "ccfb0e7beb9956d003018b612b9b6d80422927e02d001a70f4351ea86707187d",
+            "size": 66593
           }
         },
         "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
@@ -128,8 +128,8 @@
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.didi.11.png",
-            "sha256": "63d6dfb1b94c09f45e21ffec5c01c69ad823c79d12a71ed2fdd7f0c5d5546674",
-            "size": 80980
+            "sha256": "4e0dc56d75868fea1bcdafad85d3a0d308a78cbc05d8d202764b81b3ee625624",
+            "size": 101993
           }
         },
         "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
@@ -183,8 +183,8 @@
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.store.32.png",
-            "sha256": "07cb1bbaa0c4af6ff6a5f87531a88f8615e8bbc494d51d7b1eeffa0ca105cc2c",
-            "size": 23719
+            "sha256": "04366c8f7e6ade9a133abd15a8de1dcedd3663766c4f8c6196ec4e43b7455ec0",
+            "size": 62349
           }
         },
         "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"

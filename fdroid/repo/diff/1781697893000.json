@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1781698724000,
+    "timestamp": 1781699644000,
     "categories": {
       "Games": {
         "name": {
@@ -18,6 +18,12 @@
         },
         "description": {
           "fr": "Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5 et 5.5\r\nDonnez lui toutes sorte de documents, de l'image au PDF et à la vidéo.\r\nGardez les réponses toujours d'actualités grâce à la recherche web et à l'url_context."
+        },
+        "icon": {
+          "en-US": {
+            "sha256": "ccfb0e7beb9956d003018b612b9b6d80422927e02d001a70f4351ea86707187d",
+            "size": 66593
+          }
         }
       }
     },
@@ -41,8 +47,8 @@
         "icon": {
           "en-US": {
             "name": "/icons/com.ddc.didi.11.png",
-            "sha256": "63d6dfb1b94c09f45e21ffec5c01c69ad823c79d12a71ed2fdd7f0c5d5546674",
-            "size": 80980
+            "sha256": "4e0dc56d75868fea1bcdafad85d3a0d308a78cbc05d8d202764b81b3ee625624",
+            "size": 101993
           }
         },
         "preferredSigner": "bb0eb5bbe258cd3e7b51ffc9e599c46641e9bac7152413f81ea0e093f7e933a9"
@@ -80,6 +86,12 @@
       "metadata": {
         "summary": {
           "fr": "App Store alternatif au Play Store pour l'IA."
+        },
+        "icon": {
+          "en-US": {
+            "sha256": "04366c8f7e6ade9a133abd15a8de1dcedd3663766c4f8c6196ec4e43b7455ec0",
+            "size": 62349
+          }
         }
       }
     }
