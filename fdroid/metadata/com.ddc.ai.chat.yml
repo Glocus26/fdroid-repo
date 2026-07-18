@@ -1,9 +1,9 @@
-AuthorName: Ddc Apps
+AuthorName: "Ddc Apps"
 Categories:
   - Internet
 CurrentVersionCode: 2147483647
-Name: Ddc Chat
-Summary: Chatbot d'IA boosté par DdcAI 5
+Name: "Ddc Chat"
+Summary: "Chatbot d'IA boosté par DdcAI 5"
 Description: |-
   Découvrez Ddc Chat, un chatbot d'IA dernière génération boosté par DdcAI 5 et 5.5
   Donnez lui toutes sorte de documents, de l'image au PDF et à la vidéo.
