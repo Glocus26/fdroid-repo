@@ -1,0 +1,18 @@
+# === SECRETS fdroidserver — NE JAMAIS PUBLIER ===
+# La clé de signature et la config (qui contient les mots de passe du keystore).
+fdroid/config.yml
+fdroid/config.py
+fdroid/keystore.p12
+fdroid/keystore.jks
+fdroid/*.keystore
+fdroid/.fdroid.*
+
+# === Répertoires de travail fdroid (non destinés à GitHub) ===
+fdroid/tmp/
+fdroid/unsigned/
+fdroid/srclibs/
+fdroid/build/
+fdroid/logs/
+fdroid/binaries/
+
+# On publie uniquement : fdroid/repo/  et  fdroid/metadata/

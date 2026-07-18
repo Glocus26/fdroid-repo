@@ -1,0 +1,4 @@
+# Dépôt F-Droid : les fichiers publiés (index signés, APK, icônes) doivent rester
+# BYTE-EXACT. Toute conversion de fin de ligne casserait les hachages/signatures
+# de l'index (entry.json -> index-v2.json), et le client F-Droid rejetterait le dépôt.
+fdroid/repo/** -text

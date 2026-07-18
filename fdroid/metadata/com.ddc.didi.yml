@@ -1,0 +1,9 @@
+AuthorName: Ddc Apps
+Categories:
+  - Games
+CurrentVersionCode: 11
+Name: Didi
+Summary: Bot pour jouer avec vous au Yathzee!
+Description: |-
+  Un bot pour jouer avec vous au Yathzee! même hors connexion.
+  Interface avec Material 3 Design et de la synthèse vocale.
