@@ -1,9 +1,10 @@
-AuthorName: ''
+AuthorName: "Ddc Apps"
 Categories:
-- ddc-fdroid
+  - Connectivity
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: Ddc Cook
-SourceCode: ''
-Summary: ''
-WebSite: ''
+Name: "Ddc Cook"
+Summary: "Un endroit pour stocker toutes vos recettes de cuisine"
+Description: |-
+  Ddc Cook vous permet de stocker toutes vos recette de cuisine (dessert uniquement pour le moment) dans une même application. Vous permet également de naviguer facilement dans Marmiton avec l'adblock intégré et la possibilité de sauvegarder la recette.
+  Fonction "prendre une photo" pour ajouter une recette (internet requis)
+  Fonction import/export de vos données pour ne pas passer par des serveurs
