@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: "Ddc Apps"
 Categories:
-- ddc-fdroid
+  - Connectivity
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: Ddc CallBlock
-SourceCode: ''
-Summary: ''
-WebSite: ''
+Name: "Ddc CallBlock"
+Summary: "Bloqueur de pub par téléphone"
+Description: |-
+  Vous en avez marre des pubs par téléphone ?
+  Utilisez Ddc CallBlock pour ne plus être dérangé pour acheter des panneaux solaires
