@@ -1,9 +1,9 @@
-AuthorName: ''
+AuthorName: "Ddc Apps"
 Categories:
-- ddc-fdroid
+  - Multimedia
 CurrentVersionCode: 2147483647
-IssueTracker: ''
-Name: Ddc Box
-SourceCode: ''
-Summary: ''
-WebSite: ''
+Name: "Ddc Box"
+Summary: "Envoi de fichier simple vers sa Freebox Revolution"
+Description: |-
+  Télécharger simplement des fichiers sur votre Freebox Revolution.
+  Prise en charge du site ynn.ovh
