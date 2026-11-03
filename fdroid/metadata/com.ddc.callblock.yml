@@ -2,8 +2,9 @@ AuthorName: "Ddc Apps"
 Categories:
   - Connectivity
 CurrentVersionCode: 2147483647
-Name: "Ddc CallBlock"
+Name: "Ddc CallBlock (bêta)"
 Summary: "Bloqueur de pub par téléphone"
 Description: |-
   Vous en avez marre des pubs par téléphone ?
   Utilisez Ddc CallBlock pour ne plus être dérangé pour acheter des panneaux solaires
+  Ajout de la liste communautaire Saracroche
